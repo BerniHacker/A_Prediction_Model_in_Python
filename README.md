@@ -1,4 +1,4 @@
-# # A Prediction Model in Python
+# A Prediction Model in Python
 
 File / Directory Name | Description | Link
 ----------------------- | --------------------------------- | -------
