@@ -1,5 +1,7 @@
 # A Prediction Model in Python
 
+This repository contains a Python project consisting in analyzing few data sets, fitting and evaluating different prediction models and making a prediction. 
+
 File / Directory Name and Description | Link
 --- | ---
 <code>A_Prediction_Model_in_Python_Summary.pdf</code> The pdf version of a PowerPoint slide set containing the summary of the project. **This is all what you need if you are not interested in the code**. | <sub>https://github.com/BerniHacker/A_Prediction_Model_in_Python/blob/master/A_Prediction_Model_in_Python_Summary.pdf</sub>
